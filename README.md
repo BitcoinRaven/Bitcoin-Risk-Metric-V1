@@ -22,7 +22,8 @@ Code is written in Python, and can be run in any IDE.
 
 <!-- ROADMAP -->
 ## Roadmap
-
+- ~~Fixing the normalization process~~. 
+- Different weighting for indicators. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
