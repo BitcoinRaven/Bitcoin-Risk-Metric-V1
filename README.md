@@ -2,7 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is the old code for bitcoin risk metric, the whole purpose form it is to help you DCA your investment according to bitcoin risk. Check youtube channel videos to understand more. The new code is [here](https://github.com/BitcoinRaven/Bitcoin-Risk-Metric-V2) 
+This is the old code for bitcoin risk metric, the whole purpose of it is to help you DCA your investment according to bitcoin risk. Check youtube channel videos to understand more. The new code is [here](https://github.com/BitcoinRaven/Bitcoin-Risk-Metric-V2) 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
